@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=8905600,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
@@ -11,5 +10,4 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/level_2.m3u8
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/level_3.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=380600,RESOLUTION=480x270,CODECS="avc1.640015,mp4a.40.2"
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/level_4.m3u8
-
 
